@@ -1,0 +1,36 @@
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.navlabel{
+	color: #FF6600;
+	font-weight: bold;
+	font-family: cursive;
+	font-size: 30px;
+	margin: 0 0 0 50px;
+
+
+}
+nav ul {
+	
+	float: right;
+	margin-right:40px ;
+
+
+}
+nav { background :#c8c8db;
+ box-sizing: border-box;
+ height: 50px;
+ width:100% ; 
+ 	font font-weight: bold;
+	
+}
+ nav ul li{ display: inline-block;
+ 	font-weight: bold;
+ 	line-height: 20px;
+ 	margin: 0 20px;
+	 }
+.search{margin: 0 400px 0 0;}
+.newpost{margin: 0 150px 0 0;
+text-decoration: none;}
